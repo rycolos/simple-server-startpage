@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<style>
+body {
+  background-color: #343a40;
+}
+h1 {
+  padding: 40px;
+  text-align: left;
+  background: #212529;
+  color: white;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 15x;
+}
+.grid-item {
+  padding: 30px;
+  font-size: 18px;
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a:link, a:visited, a:hover, a:active { 
+  color: white;
+  text-decoration: none; 
+}
+.label {
+  text-align: center;
+  margin: 20px 0 0 0;
+}
+
+</style>
+</head>
+<body>
+
+<h1>gk_server</h1>
+<div class="grid-container">
+  <div class="grid-item">
+    <a href="http://192.168.1.91:3000">
+      <img src = images/grafana.svg height="150" width="150"><br>
+         <div class = label>Grafana</div>
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="http://192.168.1.91:9090">
+      <img src = images/prometheus.svg height="150" width="150"><br>
+        <div class = label>Prometheus</div>
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="http://192.168.1.91:32400">
+      <img src = images/plex.svg height="150" width="150"><br>
+        <div class = label>Plex</div>
+    </a>
+  </div>  
+  <div class="grid-item">
+    <a href="http://192.168.1.91:8384">
+      <img src = images/syncthing.svg height="150" width="150"><br>
+        <div class = label>Syncthing</div>
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="http://192.168.1.91:3000">
+      <img src = images/portainer.svg height="150" width="150"><br>
+        <div class = label>Portainer</div>
+    </a>
+  </div>
+  <div class="grid-item">
+    <a href="http://192.168.1.91:8581">
+      <img src = images/homebridge.svg height="150" width="150"><br>
+        <div class = label>Homebridge</div>
+    </a> 
+  </div>  
+
+</div>
+
+</body>
+</html>
