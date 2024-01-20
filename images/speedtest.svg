@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="132.29167mm"
+   height="132.29167mm"
+   viewBox="0 0 132.29167 132.29167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Speedtest.net (Favicon).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="258.38249"
+     inkscape:cy="451.19359"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <style
+       id="style824">.cls-1{fill:none;}.cls-2{fill:#1a1b2e;}.cls-3{clip-path:url(#clip-path);}.cls-4{clip-path:url(#clip-path-2);}.cls-5{fill:#fff;}</style>
+    <clipPath
+       id="clip-path">
+      <path
+         class="cls-1"
+         d="m 123.58,122.89 c 73.27,-73.11 191.89,-73.11 265.16,0 a 186.88,186.88 0 0 1 0,264.66 18.734795,18.734795 0 0 1 -26.49,-26.5 149.45,149.45 0 0 0 0,-211.65 150,150 0 0 0 -256.09,106.07 148,148 0 0 0 43.93,105.58 18.741866,18.741866 0 1 1 -26.51,26.5 186.88,186.88 0 0 1 0,-264.66 z M 303,185.4 a 16.51,16.51 0 1 1 23.34,23.35 v 0 l -54.49,54.37 a 16.47,16.47 0 0 1 -23.3,0 v 0 a 16.49,16.49 0 0 1 0,-23.33 v 0 z"
+         id="path826" />
+    </clipPath>
+    <clipPath
+       id="clip-path-2">
+      <rect
+         class="cls-1"
+         x="-1260.39"
+         y="-70.5"
+         width="6749.9702"
+         height="900"
+         id="rect829" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-36.709522,-28.861122)">
+    <g
+       id="g857"
+       transform="matrix(0.26458333,0,0,0.26458333,35.079688,27.390039)">
+      <circle
+         class="cls-2"
+         cx="256.16"
+         cy="255.56"
+         r="250"
+         id="circle834" />
+      <g
+         class="cls-3"
+         clip-path="url(#clip-path)"
+         id="g841">
+        <g
+           id="Group_29"
+           data-name="Group 29">
+          <g
+             class="cls-4"
+             clip-path="url(#clip-path-2)"
+             id="g838">
+            <g
+               id="Group_28"
+               data-name="Group 28">
+              <path
+                 id="Path_28"
+                 data-name="Path 28"
+                 class="cls-5"
+                 d="M -22.9,-14.25 H 539.6 V 492 H -22.9 Z" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
